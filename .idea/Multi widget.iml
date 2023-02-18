@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration />
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/appsized/build" />
+      <excludeFolder url="file://$MODULE_DIR$/appsized/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/appsized/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/appbar_preferred_size/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/appbar_preferred_size/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/appbar_preferred_size/build" />
+      <excludeFolder url="file://$MODULE_DIR$/example_for_multiwidget/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/example_for_multiwidget/build" />
+      <excludeFolder url="file://$MODULE_DIR$/example_for_multiwidget/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/wrap_widget/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/wrap_widget/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/wrap_widget/build" />
+      <excludeFolder url="file://$MODULE_DIR$/rich_text/build" />
+      <excludeFolder url="file://$MODULE_DIR$/rich_text/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/rich_text/.dart_tool" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
